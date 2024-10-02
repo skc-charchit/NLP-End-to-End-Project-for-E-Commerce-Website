@@ -1,4 +1,4 @@
-# NLP-End-to-End-Project-for-E-Commerce-Website
+# Building Chatbot-End-to-End-Project-for-E-Commerce-Website
 
 This is a NLP Project , where we will make a chatbot which recommend the user to purchase the product according to their budget and the products available online.
 

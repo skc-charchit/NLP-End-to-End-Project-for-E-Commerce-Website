@@ -8,7 +8,7 @@ This is a NLP Project , where we will make a chatbot which recommend the user to
 3. Building a Chatbot
 
 ### Data Collection (Web Scraping)
-We will be using BeautifulSoup to scrape the data from the website.
+We will be using BeautifulSoup or Selenium to scrape the data from the website.
 
 ### Data Preprocessing
 We will be using NLTK and Spacy to preprocess the data.

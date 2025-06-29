@@ -3,7 +3,9 @@ pandas
 seaborn
 matplotlib
 scikit-learn
+pymongo
 selenium==4.25.0
 beautifulsoup4
 requests
 openpyxl
+python-dotenv

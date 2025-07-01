@@ -1,11 +1,33 @@
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Machine Learning Utilities
+scikit-learn
+xgboost
+lightgbm
+
+# NLP libraries
+transformers
+datasets
+sentencepiece
+evaluate
+
+# Data Handling & Utilities
 numpy
 pandas
-seaborn
 matplotlib
-scikit-learn
+seaborn
+
+# MongoDB Support
 pymongo
-selenium==4.25.0
-beautifulsoup4
-requests
-openpyxl
-python-dotenv
+dnspython
+
+# Jupyter and Interactive tools
+jupyter
+notebook
+ipykernel
+
+# Virtual Environment Manager
+uv

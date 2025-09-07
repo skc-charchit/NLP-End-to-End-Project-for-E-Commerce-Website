@@ -1,3 +1,6 @@
+dotenv
+langchain
+langchain-community
 # Deep Learning
 torch
 torchvision
